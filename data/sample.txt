@@ -1,0 +1,16 @@
+Mira opened the workshop before sunrise. She checked every small tool, wrote a list, and began her careful work.
+
+At noon, a blue bird landed beside the window. The bird watched Mira turn a loose screw and test the wooden clock.
+
+The clock ticked once, then twice, then steadily. Mira smiled and recorded what she had changed in her notebook.
+
+Jon found a red lantern near the garden gate. Its glass was dusty, but its little metal handle was strong.
+
+He cleaned the glass with a soft cloth. When evening came, the lantern filled the path with warm light.
+
+Every experiment starts with a question. A useful experiment changes one thing, measures the result, and keeps a clear record.
+
+A small model learns by predicting what comes next. Each wrong prediction produces a loss that guides the next update.
+
+Good tests expose mistakes early. If a model cannot learn one tiny batch, a larger training run will only hide the problem.
+

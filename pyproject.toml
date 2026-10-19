@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tiny-issue-lm"
+version = "0.1.0"
+description = "A from-scratch character tokenizer and bigram language-model learning project"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "numpy>=2.0",
+    "torch>=2.5",
+]
+
+[project.scripts]
+tiny-issue-lm = "tiny_issue_lm.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["tiny_issue_lm*"]
